@@ -1,10 +1,10 @@
 # MarsAir
 
-Test Document: https://docs.google.com/spreadsheets/d/1LorZqFgha058GzRzxJWZFW78yygGBIXgHdJ3CxJrNVk/edit?usp=sharing
+[Test Document](https://docs.google.com/spreadsheets/d/1LorZqFgha058GzRzxJWZFW78yygGBIXgHdJ3CxJrNVk/edit?usp=sharing)
 
 ## Installation
 
-Clone the project repository
+Clone the repository
 
 ```zsh
 git clone https://github.com/naruechamn/MarsAir.git
